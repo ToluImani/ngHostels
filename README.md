@@ -1,0 +1,1 @@
+# ngHostel is a small startup founded in August 2017 and based in Abeokuta, its a marketplace where students meet homeowners and rent off-campus hostels at different universities in Nigeria- all from the comfort of the internet with any internet-enabled device.
